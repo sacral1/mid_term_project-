@@ -47,7 +47,7 @@ def request():
 def start(m):
     keyboard = types.ReplyKeyboardMarkup(True)
     keyboard.row('Next ->')
-    bot.send_message(m.chat.id, "Нажми на кнопку, чтобы получить фильм"
+    bot.send_message(m.chat.id, "Нажми на кнопку, чтобы получить фильм",
                      reply_markup=keyboard)
 
 
