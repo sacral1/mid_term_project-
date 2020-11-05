@@ -32,15 +32,3 @@ def request():
         description.append(overview)
         release = raw['release_date']
         release_date.append(release)
-
-
-# for i in range(len(res)):
-#
-#     print(f'Popular for today: \n'
-#           f'Title: {titles[i]},\n'
-#           f'Rate: {rate[i]}\n'
-#           f'Plot twist: {description[i]} \n'
-#           f'Relese date: {release_date[i]}\n'
-#           f'')
-#
-
