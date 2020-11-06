@@ -1,9 +1,5 @@
-# mid_term_project-
+ 
 
-bot that suggest to you movies and show ;)
+bot that suggest to you movies ;)
 
-telebot
-
-requests
-
-json
+telebot,requests,json
